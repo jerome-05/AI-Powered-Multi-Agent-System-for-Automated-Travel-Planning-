@@ -1,6 +1,5 @@
 # 🌍 Multi-Agent Travel Planner ✈️🏨🗺️
 
-![Travel Planner](https://source.unsplash.com/800x400/?travel,airplane)
 
 ## 📌 Project Overview
 The **Multi-Agent Travel Planner** is an intelligent system that assists users in planning their trips by leveraging multiple AI agents. This system helps in:
@@ -93,7 +92,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👥 Authors
+## 👥 Author
 - [Jerome Kenneth Gomes M](https://github.com/jerome-05) 💡
 
 ---
